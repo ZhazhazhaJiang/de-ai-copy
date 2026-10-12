@@ -15,9 +15,10 @@
     "lifecycle": "active",
     "name": "去除AI味",
     "product": "common",
-    "purpose": "调研开源去 AI 味方法，识别中文文案中的空泛词汇与模板句式，并设计成稿后的单轮审核流程。",
+    "purpose": "积累用户指出的 AI 味反例，自主提炼禁止模式，以持续扩充的 checklist 对成稿进行反向检查。",
     "repository": {
-      "mode": "local-only"
+      "mode": "remote",
+      "url": "https://github.com/ZhazhazhaJiang/de-ai-copy"
     },
     "slug": "de-ai-copy",
     "tags": [
