@@ -1,0 +1,34 @@
+{
+  "agents": [
+    "codex",
+    "dsh"
+  ],
+  "profile": "empty",
+  "project": {
+    "aliases": [
+      "de-ai-copy",
+      "202610-去除AI味"
+    ],
+    "context": "README.md",
+    "createdMonth": "2026-10",
+    "id": "de-ai-copy",
+    "lifecycle": "active",
+    "name": "去除AI味",
+    "product": "common",
+    "purpose": "调研开源去 AI 味方法，识别中文文案中的空泛词汇与模板句式，并设计成稿后的单轮审核流程。",
+    "repository": {
+      "mode": "local-only"
+    },
+    "slug": "de-ai-copy",
+    "tags": [
+      "文案编辑",
+      "去AI味",
+      "终审流程"
+    ],
+    "type": "research"
+  },
+  "schemaVersion": 2,
+  "skillMode": "vendored",
+  "skillScope": "personal",
+  "skills": []
+}
