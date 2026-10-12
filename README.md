@@ -32,8 +32,6 @@
 
 欢迎把你在写作或阅读时觉得 AI 味重的句子[提交为 Issue](https://github.com/ZhazhazhaJiang/de-ai-copy/issues/new?template=ai-style-example.md)。贴出原句，简单说说它出现在哪、哪里让你觉得别扭；有更自然的改法也可以一起写。
 
-也可以直接在[案例征集帖](https://github.com/ZhazhazhaJiang/de-ai-copy/issues/1)下留言。
-
 一个具体例子就可以提交。我们会结合上下文讨论，提炼检查项：同类例子归入已有规则，新的模式再增加条目。也欢迎指出现有规则理解偏了，或者某次修改把原意改坏了。
 
 ## 许可证
